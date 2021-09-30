@@ -1585,6 +1585,7 @@ ol {
     border-color: #7e0000 !important;
 }
 .btn{
+	width: 90px;
 	margin: 2px;
 	border-radius: .5rem !important;
 }
